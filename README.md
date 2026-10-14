@@ -1,7 +1,7 @@
 # Cochlear Implant Sound Processor Simulation
 
 A MATLAB simulation of cochlear implant signal processing using a channel vocoder.
-Built for **SYDE 252: Linear Systems and Signals** at **University of Waterloo**.
+Built for SYDE 252: Linear Systems and Signals group project.
 
 This repository presents the project's code and reports. It is a coursework
 showcase rather than a packaged tool.
